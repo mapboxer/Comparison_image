@@ -4,7 +4,7 @@
 
 from threading import Thread
 from PIL import Image
-import cv4
+import cv2
 import numpy as np
 import streamlit as st
 from skimage.measure import compare_ssim
