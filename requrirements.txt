@@ -2,4 +2,4 @@ numpy
 pillow
 streamlit 
 scikit-image
-opencv-python
+opencv-python-headless
