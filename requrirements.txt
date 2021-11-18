@@ -3,3 +3,4 @@ pillow
 streamlit 
 scikit-image
 opencv-python-headless
+opencv-contrib-python
